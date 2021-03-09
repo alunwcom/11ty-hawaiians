@@ -3,6 +3,6 @@ layout: layout.liquid
 pageTitle: Welcome to my blog
 ---
 {% for post in collections.posts %}
-    <h2><a href="{{ post.url }}">{{ post.data.pageTitle }}</a></h2>
-    <em>{{ post.date | date: "%Y-%m-%d" }}</em>
+  <h2><a href="{{ post.url }}">{{ post.data.pageTitle }}</a></h2>
+  <em>{{ post.date | date: "%Y-%m-%d" }}</em>
 {% endfor %}
