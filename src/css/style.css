@@ -1,0 +1,137 @@
+/*
+Theme Name: hawaiian_s
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: hawaiian_s
+Tags:
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+hawaiian_s is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #333333;
+  font-family: 'Inconsolata', monospace;
+  font-weight: 400;
+  font-size: 14px;
+}
+#wrapper {
+  margin: 0 auto;
+  padding: 0 30px;
+  width: 500px;
+  background-color: #ccddee;
+  height: 100%;
+  min-height: 100vh;
+}
+h1 {
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+  padding: 5px 0;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+}
+nav {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+  padding: 0;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+nav li {
+  display: inline-block;
+  width: 33%;
+  height: 100%;
+  padding: 5px 0;
+  margin: 3px;
+  text-align: center;
+  background-color: #fff;
+}
+nav li.current_page_item {
+  background-color: #333;
+}
+a {
+  color: #333;
+}
+nav li.current_page_item > a {
+  color: #fff;
+  text-decoration: none;
+}
+#banner {
+  max-width: 100%;
+  margin: 12px 0 0 0;
+}
+.site-description {
+  margin: 0 0 5px 0;
+}
+
+article p {
+  margin: 5px 0 15px 0;
+}
+article p.break {
+  margin: 5px 0 15px 0;
+  text-align: center;
+  font-size: 16px;
+}
+article ol {
+  list-style-position: inside;
+  padding: 0 15px;
+}
+.caption {
+  padding: 0 15px;
+}
+
+.alignleft {
+  float: left;
+  margin: 0.5em 1em 0.5em 0;
+}
+.alignright {
+  float: right;
+  margin: 0.5em 0 0.5em 1em;
+}
+.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+article img {
+  max-width: 100%;
+  height: auto;
+}
+
+.sd-content {
+  text-align: right;
+}
+
+@media screen and (max-width: 560px) {
+  #wrapper {
+    margin: 0;
+    padding: 0 5%;
+    width: 90%;
+  }
+  p {
+    /*text-align: justify;*/
+  }
+}
