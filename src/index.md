@@ -1,7 +1,4 @@
 ---
 layout: disco.liquid
-pageTitle: Welcome to my blog
+pageTitle: Discogogo
 ---
-{% for post in collections.posts %}
-  {% include post with post %}
-{% endfor %}

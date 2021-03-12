@@ -1,6 +1,7 @@
 <article id="{{ post.data.id }}">
 <header>
-  <h2>{{ post.data.pageTitle }}</h2>
+  <h2><a href="{{ post.url }}">{{ post.data.pageTitle }}</a></h2>
+  <em>{{ post.date | date: "%Y-%m-%d" }}</em>
 </header>
 <div>{{ post.content }}</div>
 <footer>

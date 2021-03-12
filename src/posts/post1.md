@@ -1,6 +1,7 @@
 ---
 id: post-455
 pageTitle: 11th Sep 2020 - New Single Release
+info: hello
 ---
 <article id="post-455">
 <header>
