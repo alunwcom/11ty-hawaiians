@@ -1,16 +1,14 @@
 module.exports = function(eleventyConfig) {
 
-    eleventyConfig.addPassthroughCopy("src/img");
-    eleventyConfig.addPassthroughCopy("src/css");
-    eleventyConfig.addPassthroughCopy("src/js");
-
-    // eleventyConfig.addLayoutAlias('post', 'layout.liquid');
+    eleventyConfig.addPassthroughCopy({'src/_static':'.'});
 
     return {
         dir: {
-            input: "src",
-            output: "webroot"
-        }    
+            input: 'src',
+            includes: '_includes',
+            layouts: '_layouts',
+            output: 'build'
+        }
     }
 };
   

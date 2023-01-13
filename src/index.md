@@ -1,4 +1,4 @@
 ---
-layout: disco.liquid
+layout: disco
 pageTitle: Discogogo
 ---

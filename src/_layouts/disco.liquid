@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en-GB">
+
+{% include "./head" %}
+
+<body class="home blog hfeed">
+
+{% include "./headings" %}
+
+<div id="primary" class="content-area">
+<main id="main" class="site-main" role="main">
+
+{{ content }}
+
+{% for post in collections.posts %}
+  {% include "./post" %}
+{% endfor %}
+
+</main>
+</div>
+<hr/>
+
+{% include "./meta" %}
+{% include "./photos" %}
+{% include "./footer" %}
+
+</body>
+</html>
