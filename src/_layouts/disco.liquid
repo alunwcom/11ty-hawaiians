@@ -12,7 +12,8 @@
 
 {{ content }}
 
-{% for post in collections.posts %}
+{% assign posts = collections.posts | sort: "date" | reverse %}
+{% for post in posts %}
   {% include "./post" %}
 {% endfor %}
 
