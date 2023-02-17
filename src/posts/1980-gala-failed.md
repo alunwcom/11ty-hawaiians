@@ -5,7 +5,7 @@ shortDate: true
 draft: false
 ---
 
-{{< disco_image "/media/gala-failed-front-cover.png" "200" "" "" "" >}}
+{% DiscoImage '/media/gala-failed-front-cover.png' '200' %}
 
 1. PARTY PARTY (Lusted)
 1. LEVELS OF WATER

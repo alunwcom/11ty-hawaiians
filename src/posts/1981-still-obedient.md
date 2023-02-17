@@ -5,7 +5,7 @@ shortDate: true
 draft: false
 ---
 
-{{< disco_image "/media/still-obedient-front-cover.png" "200" "" "" "" >}}
+{% DiscoImage '/media/still-obedient-front-cover.png' '200' %}
 
 1. STILL OBEDIENT (Smith)
 1. SHOULD YOU FORGET (Smith)

@@ -5,7 +5,7 @@ shortDate: true
 draft: false
 ---
 
-{{< disco_image "/media/wots-going-on-1.png" "200" "" "http://upsettherhythm.bigcartel.com/product/normil-hawaiians-what-s-going-on-pre-order" "" >}}
+{% DiscoImage '/media/wots-going-on-1.png' '200' 'http://upsettherhythm.bigcartel.com/product/normil-hawaiians-what-s-going-on-pre-order' %}
 
 ‘What’s Going On?’, originally released in 1983, is due to be re-released this month – with bonus tracks included with both the CD and LP versions.
 

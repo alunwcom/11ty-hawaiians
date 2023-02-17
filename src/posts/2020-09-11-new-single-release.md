@@ -4,7 +4,7 @@ date: 2020-09-11
 draft: false
 ---
 
-{{< disco_image "/media/in-the-stone-cover.png" "200" "" "https://upsettherhythm.bigcartel.com/product/normil-hawaiians-in-the-stone-7-pre-order" "" >}}
+{% DiscoImage '/media/in-the-stone-cover.png' '200' 'https://upsettherhythm.bigcartel.com/product/normil-hawaiians-in-the-stone-7-pre-order' %}
 
 The latest Hawaiians’ single – ‘In The Stone’ – was released on 11th September 2020. You can order the 7" single @ [Upset The Rhythm](https://upsettherhythm.bigcartel.com/product/normil-hawaiians-in-the-stone-7-pre-order), or download from Bandcamp.
 

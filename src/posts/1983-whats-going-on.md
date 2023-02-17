@@ -5,7 +5,7 @@ shortDate: true
 draft: false
 ---
 
-{{< disco_image "/media/wots-going-on-1.png" "200" "" "" "" >}}
+{% DiscoImage '/media/wots-going-on-1.png' '200' %}
 
 Side 1.
 

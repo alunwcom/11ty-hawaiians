@@ -5,7 +5,7 @@ shortDate: false
 draft: false
 ---
 
-{{< disco_image "/media/dok-poster-2.jpg" "300" "" "" "" >}}
+{% DiscoImage '/media/dok-poster-2.jpg' '300' %}
 
 Friday 25 August & Saturday 26th August
 

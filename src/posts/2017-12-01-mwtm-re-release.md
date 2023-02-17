@@ -5,7 +5,7 @@ shortDate: true
 draft: false
 ---
 
-{{< disco_image "/media/Capture.png" "200" "" "http://upsettherhythm.bigcartel.com/product/normil-hawaiians-more-wealth-than-money-pre-order" "" >}}
+{% DiscoImage '/media/Capture.png' '200' 'http://upsettherhythm.bigcartel.com/product/normil-hawaiians-more-wealth-than-money-pre-order' %}
 
 ‘More Wealth Than Money’ is now re-released on the Upset The Rhythm label, with bonus tracks on the CD, and a download card for the extras on the vinyl version.
 

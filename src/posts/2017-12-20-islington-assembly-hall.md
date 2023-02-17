@@ -5,6 +5,6 @@ shortDate: false
 draft: false
 ---
 
-{{< disco_image "/media/Richard-Dawson-Normil-hawaiians-poster.jpg" "200" "" "" "" >}}
+{% DiscoImage '/media/Richard-Dawson-Normil-hawaiians-poster.jpg' '200' %}
 
 Supporting Richard Dawson @ Islington Assembly Hall, London N1 2UD on 20th December.

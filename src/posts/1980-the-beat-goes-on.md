@@ -5,7 +5,7 @@ shortDate: true
 draft: false
 ---
 
-{{< disco_image "/media/the-beat-goes-on-front-cover.png" "200" "" "" "" >}}
+{% DiscoImage '/media/the-beat-goes-on-front-cover.png' '200' %}
 
 1. THE BEAT GOES ON
 1. VENTILATION (Smith,J Armstrong)
