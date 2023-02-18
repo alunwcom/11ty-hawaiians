@@ -11,4 +11,4 @@ draft: false
 
 You can order @ [Upset The Rhythm](http://upsettherhythm.bigcartel.com/product/normil-hawaiians-what-s-going-on-pre-order), or download from Bandcamp.
 
-{{< bandcamp "2290410223" "What&#39;s Going On?" "https://bandcamp.normilhawaiians.com/album/whats-going-on" >}}
+{% Bandcamp "2290410223" "What&#39;s Going On?" "https://bandcamp.normilhawaiians.com/album/whats-going-on" %}

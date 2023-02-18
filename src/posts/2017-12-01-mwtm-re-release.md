@@ -15,4 +15,4 @@ You can buy it now @ [Upset The Rhythm](http://upsettherhythm.bigcartel.com/prod
 
 **LYRIC SHEET AVAILABLE** If you didn’t get a copy of the lyric sheet included with the LP/CD [you can download the PDF here](/media/more-wealth-than-money-lyric-sheet.pdf).
 
-{{< bandcamp "1204487879" "More Wealth Than Money" "https://bandcamp.normilhawaiians.com/album/more-wealth-than-money" >}}
+{% Bandcamp "1204487879" "More Wealth Than Money" "https://bandcamp.normilhawaiians.com/album/more-wealth-than-money" %}

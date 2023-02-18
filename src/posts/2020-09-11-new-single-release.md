@@ -8,4 +8,4 @@ draft: false
 
 The latest Hawaiians’ single – ‘In The Stone’ – was released on 11th September 2020. You can order the 7" single @ [Upset The Rhythm](https://upsettherhythm.bigcartel.com/product/normil-hawaiians-in-the-stone-7-pre-order), or download from Bandcamp.
 
-{{< bandcamp "3574491364" "In The Stone / Where Is Living?" "https://bandcamp.normilhawaiians.com/album/in-the-stone-where-is-living-single" >}}
+{% Bandcamp "3574491364" "In The Stone / Where Is Living?" "https://bandcamp.normilhawaiians.com/album/in-the-stone-where-is-living-single" %}
