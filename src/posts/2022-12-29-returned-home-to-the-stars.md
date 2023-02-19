@@ -7,7 +7,7 @@ draft: false
 To Mark, our dear friend and brother who has just left us and returned home to the stars&hellip; We miss you!
 
 <div style="text-align: center;">
-<video controls width="450">
+<video controls width="90%">
     <source src="https://cdn.normilhawaiians.com/video/mark-snow-sd-480p.mov" type="video/quicktime">
     <source src="https://cdn.normilhawaiians.com/video/mark-snow-sd-480p.ogv" type="video/ogg">
 </video>
