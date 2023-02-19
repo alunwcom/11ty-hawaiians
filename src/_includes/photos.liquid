@@ -1,12 +1,28 @@
 <link rel="stylesheet" href="/css/photoswipe.css">
+<link rel="stylesheet" href="/css/photoswipe-dynamic-caption-plugin.css">
+
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.min.js';
+  import PhotoSwipeDynamicCaption from '/js/photoswipe-dynamic-caption-plugin.esm.min.js';
   const options = {
     dataSource: {{ images | json }},
     showHideAnimationType: 'none',
     pswpModule: () => import('/js/photoswipe.esm.min.js'),
+      paddingFn: (viewportSize) => {
+        return {
+        top: 10, bottom: 50, left: 10, right: 10
+      }
+  },
   };
   const lightbox = new PhotoSwipeLightbox(options);
+  const captionPlugin = new PhotoSwipeDynamicCaption(lightbox, {
+    type: 'below',
+    captionContent: (slide) => {
+      // slide.data.element.querySelector('img').getAttribute('alt')
+      console.log(slide.data);
+      return slide.data.alt;
+    }
+  });
   lightbox.init();
   document.querySelector('#pswp-button').onclick = (e) => {
     e.preventDefault();

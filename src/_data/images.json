@@ -3,216 +3,216 @@
     "src": "/media/dark-world-cover.png",
     "w": "480", 
     "h": "480",
-    "title": "Dark World album cover"
+    "alt": "Dark World album cover"
   },
   {
     "src": "/media/in-the-stone-cover.png",
     "w": "480", 
     "h": "480",
-    "title": "In The Stone single cover"
+    "alt": "In The Stone single cover"
   },
   {
     "src": "/media/athens-feb-2020.jpg",
     "w": 1936,
     "h": "2592",
-    "title": "Hawaiians in Athens Feb-2020"
+    "alt": "Hawaiians in Athens Feb-2020"
   },
   {
     "src": "/media/tonight-death-disco.jpg",
     "w": 719,
     "h": "1195",
-    "title": "Hawaiians @ Death Disco Feb-2020"
+    "alt": "Hawaiians @ Death Disco Feb-2020"
   },
   {
     "src": "/media/in-the-stone-cover.png",
     "w": 480,
     "h": "480",
-    "title": "In The Stone Cover"
+    "alt": "In The Stone Cover"
   },
   {
     "src": "/media/smiffy2_1.jpg",
     "w": 805,
     "h": "1218",
-    "title": "Smiffy WST Poster"
+    "alt": "Smiffy WST Poster"
   },
   {
     "src": "/media/mwtm-poster.png",
     "w": 1080,
     "h": "1589",
-    "title": "More Wealth Than Money Poster"
+    "alt": "More Wealth Than Money Poster"
   },
   {
     "src": "/media/islington-dec-2017.jpg",
     "w": 1103,
     "h": "813",
-    "title": "Islington, Dec 2017"
+    "alt": "Islington, Dec 2017"
   },
   {
     "src": "/media/Richard-Dawson-Normil-hawaiians-poster.jpg",
     "w": 679,
     "h": "960",
-    "title": "Richard Dawson w/ Normil Hawaiians Poster"
+    "alt": "Richard Dawson w/ Normil Hawaiians Poster"
   },
   {
     "src": "/media/nh7.jpg",
     "w": 4221,
     "h": "2312",
-    "title": "Edinburgh (#1), Aug 2017"
+    "alt": "Edinburgh (#1), Aug 2017"
   },
   {
     "src": "/media/nh1a.jpg",
     "w": 3570,
     "h": "2011",
-    "title": "Edinburgh (#2), Aug 2017"
+    "alt": "Edinburgh (#2), Aug 2017"
   },
   {
     "src": "/media/dok-poster-2.jpg",
     "w": 640,
     "h": "480",
-    "title": "DOK Poster"
+    "alt": "DOK Poster"
   },
   {
     "src": "/media/hawaiians-cafe-oto2.jpg",
     "w": 472,
     "h": "668",
-    "title": "Cafe Oto Poster"
+    "alt": "Cafe Oto Poster"
   },
   {
     "src": "/media/lexington-1.jpg",
     "w": 400,
     "h": "300",
-    "title": "Lexington Gig (#1), Oct 2015"
+    "alt": "Lexington Gig (#1), Oct 2015"
   },
   {
     "src": "/media/lexington-2.jpg",
     "w": 350,
     "h": "263",
-    "title": "Lexington Gig (#2), Oct 2015"
+    "alt": "Lexington Gig (#2), Oct 2015"
   },
   {
     "src": "/media/lexington-3.jpg",
     "w": 400,
     "h": "268",
-    "title": "Lexington Gig (#3), Oct 2015"
+    "alt": "Lexington Gig (#3), Oct 2015"
   },
   {
     "src": "/media/return-of-the-ranters-cover.jpg",
     "w": 1000,
     "h": "991",
-    "title": "Return of the Ranters (Cover)"
+    "alt": "Return of the Ranters (Cover)"
   },
   {
     "src": "/media/whats-going-on-front-cover.png",
     "w": 800,
     "h": "800",
-    "title": "What&apos;s Going On (Cover)"
+    "alt": "What&apos;s Going On (Cover)"
   },
   {
     "src": "/media/Capture.png",
     "w": 854,
     "h": "806",
-    "title": "More Wealth Than Money (Cover)"
+    "alt": "More Wealth Than Money (Cover)"
   },
   {
     "src": "/media/still-obedient-front-cover.png",
     "w": 800,
     "h": "800",
-    "title": "Still Obedient (Cover)"
+    "alt": "Still Obedient (Cover)"
   },
   {
     "src": "/media/gala-failed-front-cover.png",
     "w": 300,
     "h": "300",
-    "title": "Gala Failed (Cover)"
+    "alt": "Gala Failed (Cover)"
   },
   {
     "src": "/media/the-beat-goes-on-front-cover.png",
     "w": 800,
     "h": "800",
-    "title": "The Beat Goes On (Cover)"
+    "alt": "The Beat Goes On (Cover)"
   },
   {
     "src": "/media/poster-v3.jpg",
     "w": 472,
     "h": "674",
-    "title": "Lexington Gig Poster"
+    "alt": "Lexington Gig Poster"
   },
   {
     "src": "/media/pic6.jpg",
     "w": 454,
     "h": "289",
-    "title": "Brixton, 1985?"
+    "alt": "Brixton, 1985?"
   },
   {
     "src": "/media/pic5.jpg",
     "w": 455,
     "h": "259",
-    "title": "IGA"
+    "alt": "IGA"
   },
   {
     "src": "/media/pic4.jpg",
     "w": 455,
     "h": "284",
-    "title": "IGA"
+    "alt": "IGA"
   },
   {
     "src": "/media/pic3.jpg",
     "w": 200,
     "h": "264",
-    "title": "Foel Studios"
+    "alt": "Foel Studios"
   },
   {
     "src": "/media/nh10-web.jpg",
     "w": 455,
     "h": "346",
-    "title": "nh10-web"
+    "alt": "nh10-web"
   },
   {
     "src": "/media/nh8-web.jpg",
     "w": 455,
     "h": "252",
-    "title": "nh8-web"
+    "alt": "nh8-web"
   },
   {
     "src": "/media/nh9-web.jpg",
     "w": 455,
     "h": "373",
-    "title": "nh9-web"
+    "alt": "nh9-web"
   },
   {
     "src": "/media/nh7-web.jpg",
     "w": 452,
     "h": "315",
-    "title": "nh7-web"
+    "alt": "nh7-web"
   },
   {
     "src": "/media/nh6-web.jpg",
     "w": 455,
     "h": "296",
-    "title": "nh6-web"
+    "alt": "nh6-web"
   },
   {
     "src": "/media/scala-gig-rehearsal-iga-1981.jpg",
     "w": 2675,
     "h": "2132",
-    "title": "scala-gig-rehearsal-iga-1981"
+    "alt": "scala-gig-rehearsal-iga-1981"
   },
   {
     "src": "/media/guy-and-roger-smith-1980.jpg",
     "w": 1952,
     "h": "2425",
-    "title": "guy-and-roger-smith-1980"
+    "alt": "guy-and-roger-smith-1980"
   },
   {
     "src": "/media/nh3-web.jpg",
     "w": 455,
     "h": "359",
-    "title": "nh3-web"
+    "alt": "nh3-web"
   },
   {
     "src": "/media/nh1-web.jpg",
     "w": 455,
     "h": "299",
-    "title": "nh1-web"
+    "alt": "nh1-web"
   }
 ]

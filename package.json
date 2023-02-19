@@ -15,6 +15,7 @@
     "@11ty/eleventy": "^2.0.0"
   },
   "dependencies": {
-    "photoswipe": "^5.3.5"
+    "photoswipe": "^5.3.5",
+    "photoswipe-dynamic-caption-plugin": "^1.2.7"
   }
 }

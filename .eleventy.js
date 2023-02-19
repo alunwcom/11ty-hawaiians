@@ -8,9 +8,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "node_modules/photoswipe/dist/photoswipe-lightbox.esm.min.js": "js/photoswipe-lightbox.esm.min.js",
     "node_modules/photoswipe/dist/photoswipe.esm.min.js": "js/photoswipe.esm.min.js",
-    "node_modules/photoswipe/dist/photoswipe.css": "css/photoswipe.css"
+    "node_modules/photoswipe/dist/photoswipe.css": "css/photoswipe.css",
+    "node_modules/photoswipe-dynamic-caption-plugin/dist/photoswipe-dynamic-caption-plugin.esm.min.js": "js/photoswipe-dynamic-caption-plugin.esm.min.js",
+    "node_modules/photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css": "css/photoswipe-dynamic-caption-plugin.css"
   });
-  
   
   eleventyConfig.addShortcode('DiscoImage', discoImage);
   eleventyConfig.addShortcode('FacebookVideo', facebookVideo);
