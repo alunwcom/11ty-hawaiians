@@ -1,5 +1,17 @@
 [
   {
+    "src": "/media/dark-world-cover.png",
+    "w": "480", 
+    "h": "480",
+    "title": "Dark World album cover"
+  },
+  {
+    "src": "/media/in-the-stone-cover.png",
+    "w": "480", 
+    "h": "480",
+    "title": "In The Stone single cover"
+  },
+  {
     "src": "/media/athens-feb-2020.jpg",
     "w": 1936,
     "h": "2592",
