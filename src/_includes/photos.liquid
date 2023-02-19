@@ -8,7 +8,8 @@
   };
   const lightbox = new PhotoSwipeLightbox(options);
   lightbox.init();
-  document.querySelector('#pswp-button').onclick = () => {
+  document.querySelector('#pswp-button').onclick = (e) => {
+    e.preventDefault();
     lightbox.loadAndOpen(0); // defines start slide index
   };
 </script>
