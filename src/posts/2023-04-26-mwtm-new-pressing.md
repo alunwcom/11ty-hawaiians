@@ -9,6 +9,6 @@ draft: false
 
 {% DiscoImage '/media/mwtm-white.jpg' '300' 'http://upsettherhythm.bigcartel.com/product/normil-hawaiians-more-wealth-than-money-pre-order' %}
 
-You can still get the download version from Bancamp...
+You can still get the download version from Bandcamp...
 
 {% Bandcamp "1204487879" "More Wealth Than Money" "https://bandcamp.normilhawaiians.com/album/more-wealth-than-money" %}
