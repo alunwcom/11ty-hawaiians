@@ -1,7 +1,7 @@
 ---
 title: "Apr 2023 - 'More Wealth Than Money' Vinyl Back in Stock"
 date: 2023-04-26
-shortDate: true
+shortDate: false
 draft: false
 ---
 
