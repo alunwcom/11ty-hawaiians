@@ -1,6 +1,6 @@
 module.exports = (link) => {
-  return `<script async defer crossorigin="anonymous" 
-    src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v15.0&appId=212609356850412&autoLogAppEvents=1" nonce="VNViaxfa"></script>
+  return `<div id="fb-root"></div>
+  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
   <div class="fb-video" 
     data-href="${link}" 
     data-width="auto" 
