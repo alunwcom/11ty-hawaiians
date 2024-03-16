@@ -4,8 +4,9 @@ date: 2024-03-14
 draft: false
 ---
 
-From [https://www.upsettherhythm.co.uk/](https://www.upsettherhythm.co.uk/)
+{% DiscoImage '/media/eis-cover.jpeg' '200' %}
 
+From [https://www.upsettherhythm.co.uk/](https://www.upsettherhythm.co.uk/)
 
 *"Huge day today! Normil Hawaiians’ first new album in 40 years will be coming out on Upset The Rhythm on May 3rd. Titled ‘Empires into Sand’, the record is an incredible patchwork cloak of ideas drawing on ambient drone, motorik impulse, folk idiom and a certain cosmic uncanny.*
 
