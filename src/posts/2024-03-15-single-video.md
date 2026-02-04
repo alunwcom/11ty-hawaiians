@@ -16,4 +16,6 @@ From [https://www.upsettherhythm.co.uk/](https://www.upsettherhythm.co.uk/)
 
 *"Lead single ‘Exiles’ is released today, exploring the continuous movement of human beings, check out the video for more sublime signs from the firmament."*
 
+Cover photo credit: Emmanuil Evzerikhin, «Stalingrad. Station Square. Fountain "Children's Round Dance". After a massive raid by Hitler's aviation», 1942. 
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zHWX1SDob0Y?si=gKAFKhAhFBOQFOgb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
