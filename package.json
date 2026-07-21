@@ -17,5 +17,8 @@
   "dependencies": {
     "photoswipe": "^5.4.4",
     "photoswipe-dynamic-caption-plugin": "^1.2.7"
+  },
+  "allowScripts": {
+    "fsevents@2.3.2": true
   }
 }
