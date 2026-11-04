@@ -1,4 +1,4 @@
-const { Liquid } = require('liquidjs');
+import { Liquid } from 'liquidjs';
 /*
 
 Main page image shortcode - supply parameters:
@@ -8,7 +8,7 @@ Main page image shortcode - supply parameters:
 4. alt text (opt)
 
 */
-module.exports = (src, width, link, alt) => {
+export default (src, width, link, alt) => {
   let href = '';
   if (link) {
     href = ` href="${link}" target="_blank" rel="noopener noreferrer"`;

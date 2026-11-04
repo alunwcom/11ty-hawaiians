@@ -1,8 +1,8 @@
-const discoImage = require('./src/_shortcodes/DiscoImage');
-const facebookVideo = require('./src/_shortcodes/FacebookVideo');
-const bandcamp = require('./src/_shortcodes/Bandcamp');
+import discoImage from './src/_shortcodes/DiscoImage.js';
+import facebookVideo from './src/_shortcodes/FacebookVideo.js';
+import bandcamp from './src/_shortcodes/Bandcamp.js';
 
-module.exports = function(eleventyConfig) {
+export default function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({'src/_static':'.'});
   eleventyConfig.addPassthroughCopy({

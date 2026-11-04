@@ -14,7 +14,7 @@ https://w.soundcloud.com/player/?visual=true&#038;url=http%3A%2F%2Fapi.soundclou
 
 */
 
-module.exports = (link) => {
+export default (link) => {
   return `<div>
     <iframe width="400" height="300" scrolling="no" frameborder="no" 
       src="${link}">
